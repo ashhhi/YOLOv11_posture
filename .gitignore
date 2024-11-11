@@ -1,0 +1,9 @@
+*.pt
+datasets
+auto-label
+runs
+*.mp4
+*.png
+*.jpg
+.DS_Store
+.idea
